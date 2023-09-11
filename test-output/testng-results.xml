@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Before suite is getting executed]]>
+    </line>
+    <line>
+      <![CDATA[Before Test is getting executed]]>
+    </line>
+    <line>
+      <![CDATA[Before Class is getting executed]]>
+    </line>
+    <line>
+      <![CDATA[Before Method is getting executed]]>
+    </line>
+    <line>
+      <![CDATA[Main Method is getting executed]]>
+    </line>
+    <line>
+      <![CDATA[After Method is getting executed]]>
+    </line>
+    <line>
+      <![CDATA[Before Class is getting executed]]>
+    </line>
+    <line>
+      <![CDATA[After Test is getting executed]]>
+    </line>
+    <line>
+      <![CDATA[After suite is getting executed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-09-11T12:20:25 IST" name="Default suite" finished-at="2023-09-11T12:20:25 IST" duration-ms="158">
+    <groups>
+    </groups>
+    <test started-at="2023-09-11T12:20:25 IST" name="Default test" finished-at="2023-09-11T12:20:25 IST" duration-ms="158">
+      <class name="TestNg.Annotation">
+        <test-method is-config="true" signature="BeforesuiteExecuting()[pri:0, instance:TestNg.Annotation@2d3379b4]" started-at="2023-09-11T12:20:25 IST" name="BeforesuiteExecuting" finished-at="2023-09-11T12:20:25 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before suite is getting executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BeforesuiteExecuting -->
+        <test-method is-config="true" signature="BeforeTestExecuting()[pri:0, instance:TestNg.Annotation@2d3379b4]" started-at="2023-09-11T12:20:25 IST" name="BeforeTestExecuting" finished-at="2023-09-11T12:20:25 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Test is getting executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BeforeTestExecuting -->
+        <test-method is-config="true" signature="BeforeClassExecuting()[pri:0, instance:TestNg.Annotation@2d3379b4]" started-at="2023-09-11T12:20:25 IST" name="BeforeClassExecuting" finished-at="2023-09-11T12:20:25 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Class is getting executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BeforeClassExecuting -->
+        <test-method is-config="true" signature="BeforeMethodExecuting()[pri:0, instance:TestNg.Annotation@2d3379b4]" started-at="2023-09-11T12:20:25 IST" name="BeforeMethodExecuting" finished-at="2023-09-11T12:20:25 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method is getting executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BeforeMethodExecuting -->
+        <test-method signature="Mainmethod()[pri:0, instance:TestNg.Annotation@2d3379b4]" started-at="2023-09-11T12:20:25 IST" name="Mainmethod" finished-at="2023-09-11T12:20:25 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Main Method is getting executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Mainmethod -->
+        <test-method is-config="true" signature="AfterMethodExecuting()[pri:0, instance:TestNg.Annotation@2d3379b4]" started-at="2023-09-11T12:20:25 IST" name="AfterMethodExecuting" finished-at="2023-09-11T12:20:25 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method is getting executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AfterMethodExecuting -->
+        <test-method is-config="true" signature="AfterClassExecuting()[pri:0, instance:TestNg.Annotation@2d3379b4]" started-at="2023-09-11T12:20:25 IST" name="AfterClassExecuting" finished-at="2023-09-11T12:20:25 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Class is getting executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AfterClassExecuting -->
+        <test-method is-config="true" signature="AfterTestExecuting()[pri:0, instance:TestNg.Annotation@2d3379b4]" started-at="2023-09-11T12:20:25 IST" name="AfterTestExecuting" finished-at="2023-09-11T12:20:25 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After Test is getting executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AfterTestExecuting -->
+        <test-method is-config="true" signature="AftersuiteExecuting()[pri:0, instance:TestNg.Annotation@2d3379b4]" started-at="2023-09-11T12:20:26 IST" name="AftersuiteExecuting" finished-at="2023-09-11T12:20:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After suite is getting executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AftersuiteExecuting -->
+      </class> <!-- TestNg.Annotation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
